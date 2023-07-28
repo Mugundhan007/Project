@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image: mugundhan007/mini_project:abcd
+        image: mugundhan007/miniproject:abcd
         ports:
         - containerPort: 80
 
